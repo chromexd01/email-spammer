@@ -1,0 +1,2 @@
+# email-spammer
+💣SPAMS email
